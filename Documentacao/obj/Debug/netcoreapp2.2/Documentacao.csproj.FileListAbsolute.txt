@@ -1,0 +1,10 @@
+C:\Users\rodolfo.dias\source\repos\PhoneTest\Documentacao\bin\Debug\netcoreapp2.2\Documentacao.deps.json
+C:\Users\rodolfo.dias\source\repos\PhoneTest\Documentacao\bin\Debug\netcoreapp2.2\Documentacao.dll
+C:\Users\rodolfo.dias\source\repos\PhoneTest\Documentacao\bin\Debug\netcoreapp2.2\Documentacao.pdb
+C:\Users\rodolfo.dias\source\repos\PhoneTest\Documentacao\obj\Debug\netcoreapp2.2\Documentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.dias\source\repos\PhoneTest\Documentacao\obj\Debug\netcoreapp2.2\Documentacao.AssemblyInfoInputs.cache
+C:\Users\rodolfo.dias\source\repos\PhoneTest\Documentacao\obj\Debug\netcoreapp2.2\Documentacao.AssemblyInfo.cs
+C:\Users\rodolfo.dias\source\repos\PhoneTest\Documentacao\obj\Debug\netcoreapp2.2\Documentacao.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.dias\source\repos\PhoneTest\Documentacao\obj\Debug\netcoreapp2.2\Documentacao.dll
+C:\Users\rodolfo.dias\source\repos\PhoneTest\Documentacao\obj\Debug\netcoreapp2.2\Documentacao.pdb
+C:\Users\rodolfo.dias\source\repos\PhoneTest\Documentacao\obj\Debug\netcoreapp2.2\Documentacao.csproj.AssemblyReference.cache
